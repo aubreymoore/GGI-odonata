@@ -5,3 +5,9 @@ This repo documents my first attempt to annotate an article using GoldenGate Ima
 ## Data acquisition
 
 ![](images/open-from-url.png)
+
+## Annotation
+
+Currently stuck.
+
+![](images/distribution-problem.png)
