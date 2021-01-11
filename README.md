@@ -6,8 +6,9 @@ This repo documents my first attempt to annotate an article using GoldenGate Ima
 
 ![](images/open-from-url.png)
 
-## Annotation
+## Annotation progress
 
-Currently stuck.
+Currently stuck. I cannot figure out how to annotate the final paragraph in the *Ishnura delicata* treatment as **Distribution**.
+The IMF file can be downloaded fron this repo.
 
 ![](images/distribution-problem.png)
