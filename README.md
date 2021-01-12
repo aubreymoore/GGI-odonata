@@ -4,7 +4,7 @@ This repo documents my first attempt to annotate an article using GoldenGate Ima
 
 ## Data acquisition
 
-I am attempting to annotate a simple artile entitled *Odonta: Dragonflies of Guam* which is contained in *Bernice P. Bishop Museum Bulletin 172: Insects of Guam 1* which is available online. From precious experience, I know that the online PDFs contain some OCR problems, so I decided to have GGI redo the OCR: 
+I am attempting to annotate a simple artile entitled *Odonta: Dragonflies of Guam* which is contained in *Bernice P. Bishop Museum Bulletin 172: Insects of Guam 1* which is available online. From previous experience, I know that the online PDFs contain some OCR problems, so I decided to have GGI redo the OCR: 
 
 ![](images/open-from-url.png)
 
