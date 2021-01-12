@@ -11,6 +11,6 @@ I am attempting to annotate a simple artile entitled *Odonta: Dragonflies of Gua
 ## Annotation progress
 
 Currently stuck. I cannot figure out how to annotate the final paragraph in the *Ishnura delicata* treatment as **Distribution**.
-The IMF file can be downloaded fron this repo.
+[Permalink to odonata.imf in the problem state.](https://github.com/aubreymoore/GGI-odonata/blob/14cdbe4945dca01c74cad41891df7359e21ef0b3/%20odonata.imf).
 
 ![](images/distribution-problem.png)
